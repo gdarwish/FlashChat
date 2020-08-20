@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "745668622931",
+    "firebase_url": "https://flashchat-7d9af.firebaseio.com",
+    "project_id": "flashchat-7d9af",
+    "storage_bucket": "flashchat-7d9af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745668622931:android:d98fdd777bdff62ef9a4a6",
+        "android_client_info": {
+          "package_name": "co.GhaithDarwish.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745668622931-o9foi2hra6dol1fejmksrq372i4jaeml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSsRAnoqNGZOXKMhPFjTslK4jTTNdZS2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745668622931-o9foi2hra6dol1fejmksrq372i4jaeml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "745668622931-5a6s3fl2u84b9t0jalpdn7igcaclh6gf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ca.ghaith.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
